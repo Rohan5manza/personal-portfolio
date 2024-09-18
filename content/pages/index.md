@@ -194,10 +194,7 @@ sections:
   - type: LabelsSection
     title: Skills
     subtitle: List of my professional tool kit
-    items:
-      - type: Label
-        label: Swift
-        url: ''
+    items: []
     colors: colors-f
     elementId: ''
     styles:
