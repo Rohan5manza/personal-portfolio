@@ -138,26 +138,52 @@ sections:
     variant: variant-a
     title: My skills
     text: >+
-      **Technical skills:**
 
 
-      <div style="text-align: left">**1.Proficient in AI/ML and deep
-      learning.**I have a strong interest in AI , and theory of computation.I am
-      proficient in deep learning( ML, data science, python, pytorch, computer
-      vision, LLMs, and other architectures, along with basic math required such
-      as linear algebra, probability theory and calculus). I like to play around
+      Technical skills:
+
+
+      1.Proficient in AI/ML and deep learning.
+
+
+      I have a strong interest in AI , and theory of computation.I am proficient
+      in deep learning( ML, data science, python, pytorch, computer vision,
+      LLMs, and other architectures, along with basic math required such as
+      linear algebra, probability theory and calculus). I like to play around
       with deep neural networks and study the subject, both theoretically and
-      via programming.Have experience of building real-world AI projects.**2.
-      Home server management**I possess basic knowledge and expertise of Proxmox
-      homelab server management, virtualization, Linux, basic networking, and
-      self-hosting applications. Exploring this field as a lifelong hobby.**3.
-      Possess advanced knowledge of theoretical physics**Modern physics(general
-      relativity and quantum mechanics) sparked my lifelong love for science.
-      Pursued this field passionately for 5 years.**4. Other professional
-      hobbies:**I have keen interest in entrepreneurship. I have knowledge of
-      finance, economics, fundamental analysis of businesses, and value
-      investing. Have experience of investing in stocks.List of skills :Python,
-      C++, Java, Docker, Linux, Proxmox, Pytorch, Matlab.</div>
+      via programming.Have experience of building real-world AI projects.
+
+
+      2\. Home server management
+
+
+      I possess basic knowledge and expertise of Proxmox homelab server
+      management, virtualization, Linux, basic networking, and self-hosting
+      applications. Exploring this field as a lifelong hobby.
+
+
+      3\. Possess advanced knowledge of theoretical physics
+
+
+      Modern physics(general relativity and quantum mechanics) sparked my
+      lifelong love for science. Pursued this field passionately for 5 years
+
+
+      4\. Other professional hobbies:
+
+
+      I have a keen interest in entrepreneurship. I have knowledge of finance,
+      economics, fundamental analysis of businesses, and value investing. Have
+      experience of investing in stocks
+
+
+      List of skills :
+
+
+      Python, C++, Java, Docker, Linux, Proxmox, Pytorch, Matlab.
+
+
+
 
     elementId: ''
     styles:
