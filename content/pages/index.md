@@ -208,7 +208,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-06-23 172553.png
-          altText: John Doe
+          altText: Rohan Marar
           caption: Caption of the image
           elementId: ''
         elementId: ''
