@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hi,My name is Rohan marar. welcome to my portfolio website.'
+    title: 'Hi,I am Rohan marar. welcome to my portfolio website.'
     subtitle: >-
       This is my info—I’m sharing all this with you to give you a glimpse into
       my life and my personality,the things that make me who I am. Continue to
