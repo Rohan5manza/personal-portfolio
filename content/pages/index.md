@@ -196,9 +196,6 @@ sections:
     subtitle: List of my professional tool kit
     items:
       - type: Label
-        label: Microsoft Office
-        url: ''
-      - type: Label
         label: Next.js
         url: ''
       - type: Label
