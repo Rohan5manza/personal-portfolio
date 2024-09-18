@@ -11,7 +11,7 @@ description: >-
   monetizing upon my useful projects and ideas.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Algoinvest.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
