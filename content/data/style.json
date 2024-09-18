@@ -50,7 +50,7 @@
         "size": "base",
         "weight": "normal",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "buttonPrimary": {
