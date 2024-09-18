@@ -208,6 +208,9 @@ sections:
         label: Pytorch
         url: ''
       - type: Label
+        label: Proxmox
+        url: ''
+      - type: Label
         label: Docker
         url: ''
     colors: colors-f
