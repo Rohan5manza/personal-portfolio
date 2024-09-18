@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'My micro-SaaS side hsutle '
+title: 'My micro-SaaS side hustle '
 colors: colors-a
 date: '2024-08-20'
 client: Awesome client
