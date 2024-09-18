@@ -95,7 +95,8 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
-    posts: []
+    posts:
+      - content/pages/blog/my-bodybuilding-journey.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
