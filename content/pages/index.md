@@ -17,9 +17,9 @@ sections:
     subtitle: >-
       This is my info—I’m sharing it all this with you to impress you with many
       things that make me who I am. Once you’re impressed, you can continue to
-      scroll down to see more details about me, my personal and my professional
-      life. I love to write, and this website gives me a chance to pin down my
-      thoughts, my interests, and my ambitions. 
+      scroll down to see more details about me,and my personal and my
+      professional life. I love to write, and this website gives me a chance to
+      pin down my thoughts, my interests, and my ambitions. 
     styles:
       self:
         height: auto
