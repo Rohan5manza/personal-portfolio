@@ -15,9 +15,11 @@ sections:
     backgroundSize: full
     title: 'Hi,My name is Rohan marar. welcome to my personal portfolio website.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my info—I’m sharing it all this with you to impress you with many
+      things that make me who I am. Once you’re impressed, you can continue to
+      scroll down to see more details about me, my personal and my professional
+      life. I love to write, and this website gives me a chance to pin down my
+      thoughts, my interests, and my ambitions. 
     styles:
       self:
         height: auto
