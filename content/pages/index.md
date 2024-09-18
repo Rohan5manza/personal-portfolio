@@ -205,7 +205,7 @@ sections:
         title: Computer engineer
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/Screenshot 2024-06-23 172553.png
           altText: John Doe
           caption: Caption of the image
           elementId: ''
