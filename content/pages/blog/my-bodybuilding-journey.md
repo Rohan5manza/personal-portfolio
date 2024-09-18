@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: My bodybuilding journey
-date: '2023-08-18'
+date: '2024-09-18'
 excerpt: ''
 featuredImage:
   type: ImageBlock
