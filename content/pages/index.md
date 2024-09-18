@@ -207,6 +207,9 @@ sections:
       - type: Label
         label: Pytorch
         url: ''
+      - type: Label
+        label: Docker
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
