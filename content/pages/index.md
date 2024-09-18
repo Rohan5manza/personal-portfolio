@@ -234,7 +234,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: My hobbies
-    subtitle: The section subtitle
+    subtitle: How I spend my personal time
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
