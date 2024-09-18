@@ -4,7 +4,9 @@ title: 'My book '
 colors: colors-a
 date: '2024-09-18'
 client: Awesome client
-description: Deep Learning
+description: >-
+  Deep Learning deciphered :A guide to understanding neural networks with
+  Sherlock Holmes’ investigative approach. 
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
