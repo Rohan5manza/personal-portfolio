@@ -83,6 +83,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Prospective microbusiness
+    title: My works
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
