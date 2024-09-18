@@ -4,7 +4,7 @@ title: 'My book '
 colors: colors-a
 date: '2024-09-18'
 client: Awesome client
-description: ''
+description: Deep Learning
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
