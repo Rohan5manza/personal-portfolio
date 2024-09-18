@@ -198,50 +198,11 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >+
+        quote: >
           I am always passionate to create and invent new stuff, and gain
           knowledge and expertise of things related to science and technology
           that interest me. I always approach a subject of my interest with
           curiosity and a first-principles basis.
-
-
-          Modern physics(general relativity and quantum mechanics) sparked my
-          lifelong love for science.
-
-          I have a strong interest in AI , and theory of computation.I am
-          proficient in deep learning( ML, data science, python, pytorch,
-          computer vision, LLMs, and other architectures, along with basic math
-          required such as linear algebra, probability theory and calculus). I
-          like to play around with deep neural networks and study the subject,
-          both theoretically and via programming. Have experience of building
-          real-world AI projects.
-
-
-          I possess basic knowledge of Proxmox homelab server management,
-          virtualization, Linux, basic networking, and self-hosting
-          applications. Exploring this field as a lifelong hobby.
-
-
-          I have keen interest in entrepreneurship. I have knowledge of finance,
-          economics, fundamental analysis of businesses, and value investing.
-          Have experience of investing in stocks.
-
-
-          I wish to pursue scientific research.
-
-          I have a clear vision of the future of technology that I am going to
-          create and invent, and I like to imagine what it will look like.
-
-          Strong believer of the dream that invention of a superintelligent
-          self-improving AGI, that will kick-start a technological singularity,
-          is possible.
-
-
-          Other personal hobbies : Bodybuilding, swimming, reading books,
-          cooking.
-
-
-
         name: Rohan Marar
         title: Computer engineer
         image:
