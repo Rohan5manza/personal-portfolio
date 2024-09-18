@@ -235,10 +235,7 @@ sections:
   - type: LabelsSection
     title: My hobbies
     subtitle: 'Things I love to do '
-    items:
-      - type: Label
-        label: Swift
-        url: ''
+    items: []
     colors: colors-f
     elementId: ''
     styles:
