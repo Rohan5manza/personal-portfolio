@@ -83,7 +83,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Prospective microbusiness
+    subtitle: 'Major things I''m building, or have completed....'
     title: My works
   - type: FeaturedPostsSection
     elementId: ''
