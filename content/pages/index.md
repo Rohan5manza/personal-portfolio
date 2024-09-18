@@ -204,6 +204,9 @@ sections:
       - type: Label
         label: C++
         url: ''
+      - type: Label
+        label: Pytorch
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
