@@ -48,7 +48,7 @@ sections:
     type: HeroSection
     actions: []
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: My works
     actions:
       - type: Link
         label: See all projects
