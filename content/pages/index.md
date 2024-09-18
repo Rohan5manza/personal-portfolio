@@ -13,13 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'Hi,My name is Rohan marar. welcome to my portfolio website.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my info—I’m sharing it all this with you to impress you with many
+      things that make me who I am. Once you’re impressed, you can continue to
+      scroll down to see more details about me,and my personal and my
+      professional life. I love to write, and this website gives me a chance to
+      pin down my thoughts, my interests, and my ambitions. 
     styles:
       self:
         height: auto
@@ -47,12 +47,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
+  - colors: colors-a
     type: FeaturedProjectsSection
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: See all works
         url: /projects
     showDate: false
     showDescription: true
@@ -61,8 +61,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
+      - content/pages/projects/my-book.md
     styles:
       self:
         height: auto
@@ -84,7 +83,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: 'Major things I''m building, or have completed....'
+    title: My works
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -95,10 +95,7 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
+    posts: []
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

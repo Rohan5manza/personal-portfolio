@@ -1,15 +1,20 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: 'My SaaS side hustle '
 colors: colors-a
-date: '2021-12-20'
+date: '2024-08-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Algoinvest is a way by which I  build innovative software and offer them as
+  services to solve problems and enable people to get rid of their frustrations.
+  It is a way by which I can provide value to others as a ML engineer, by
+  monetizing upon my useful projects and ideas. Check it out here:
+  https://algoinvest.netlify.app
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Algoinvest.png
   altText: Project thumbnail image
+  caption: prospective microbusiness
 media:
   type: ImageBlock
   url: /images/bg2.jpg
