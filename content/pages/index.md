@@ -237,9 +237,6 @@ sections:
     subtitle: 'Things I love to do '
     items:
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
         label: Swift
         url: ''
     colors: colors-f
