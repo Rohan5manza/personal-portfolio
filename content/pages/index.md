@@ -130,6 +130,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: My blogs
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
