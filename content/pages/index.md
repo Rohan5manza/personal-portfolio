@@ -15,11 +15,12 @@ sections:
     backgroundSize: full
     title: 'Hi,My name is Rohan marar. welcome to my portfolio website.'
     subtitle: >-
-      This is my info—I’m sharing it all this with you to impress you with many
-      things that make me who I am. Once you’re impressed, you can continue to
-      scroll down to see more details about me,and my personal and my
-      professional life. I love to write, and this website gives me a chance to
-      pin down my thoughts, my interests, and my ambitions. 
+      This is my info—I’m sharing it all this with you to give you a glimpse
+      into my life and my personality. you with many things that make me who I
+      am. Continue to scroll down to see more details about me,and my personal
+      and my professional life. I love to write, and this website gives me a
+      chance to pin down my thoughts, my interests, and my ambitions, and all
+      the things I've done till now, as well as my future plans.
     styles:
       self:
         height: auto
@@ -62,6 +63,7 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/my-book.md
+      - content/pages/projects/my-newsletter.md
     styles:
       self:
         height: auto
@@ -83,19 +85,25 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Major things I''m building, or have completed....'
+    subtitle: 'Major things I''m building, or have completed...'
     title: My works
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: >-
+      An account of my personal and professional life, and other things I feel
+      like writing about...
     showFeaturedImage: false
     actions:
       - type: Link
         label: See all posts
         url: /blog
-    posts: []
+    posts:
+      - content/pages/blog/my-bodybuilding-journey.md
+      - content/pages/blog/about-me.md
+      - content/pages/blog/documentation.md
+      - content/pages/blog/my-homelab-journey.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -124,10 +132,11 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: My blogs
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Got an interesting project that matches our interests? Would love to collab with you!...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -189,5 +198,44 @@ sections:
       title:
         textAlign: left
       text:
+        textAlign: left
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >
+          I am always passionate to create and invent new stuff, and gain
+          knowledge and expertise of things related to science and technology
+          that interest me. I always approach a subject of my interest with
+          curiosity and a first-principles basis.
+        name: Rohan Marar
+        title: Computer engineer
+        image:
+          type: ImageBlock
+          url: /images/Screenshot 2024-06-23 172553.png
+          altText: Rohan Marar
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-a
+    variant: variant-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
         textAlign: left
 ---
