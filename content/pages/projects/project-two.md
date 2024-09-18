@@ -13,6 +13,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Algoinvest.png
   altText: Project thumbnail image
+  caption: prospective microbusiness
 media:
   type: ImageBlock
   url: /images/bg2.jpg
