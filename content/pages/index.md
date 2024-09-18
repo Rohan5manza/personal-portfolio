@@ -91,7 +91,9 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: My blogs
+    subtitle: >-
+      An account of my personal and professional life, and other things I feel
+      like writing about...
     showFeaturedImage: false
     actions:
       - type: Link
