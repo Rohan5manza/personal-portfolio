@@ -23,7 +23,7 @@ description: >-
   https://www.amazon.com/dp/B0DB8NYN4Z
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2024-07-26 140345.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
