@@ -132,7 +132,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project that matches our interests? Would love to colab with you!...\U0001F4AC"
+    title: "Got an interesting project that matches our interests? Would love to collab with you!...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
