@@ -156,8 +156,8 @@ sections:
       Pursued this field passionately for 5 years.**4. Other professional
       hobbies:**I have keen interest in entrepreneurship. I have knowledge of
       finance, economics, fundamental analysis of businesses, and value
-      investing. Have experience of investing in stocks.**List of skills
-      :**Python, C++, Java, Docker, Linux, Proxmox, Pytorch, Matlab.</div>
+      investing. Have experience of investing in stocks.List of skills :Python,
+      C++, Java, Docker, Linux, Proxmox, Pytorch, Matlab.</div>
 
     elementId: ''
     styles:
