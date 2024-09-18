@@ -213,6 +213,9 @@ sections:
       - type: Label
         label: Docker
         url: ''
+      - type: Label
+        label: Linux
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
