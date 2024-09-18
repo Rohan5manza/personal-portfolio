@@ -10,6 +10,16 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/https://linktr.ee/rohanmarar5",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Info",
                 "url": "/info"
             },
@@ -88,7 +98,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
