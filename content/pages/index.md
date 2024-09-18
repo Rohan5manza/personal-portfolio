@@ -245,6 +245,9 @@ sections:
       - type: Label
         label: Swimming
         url: ''
+      - type: Label
+        label: Watching movies & TV shows
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
