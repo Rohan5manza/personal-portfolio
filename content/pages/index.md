@@ -237,9 +237,6 @@ sections:
     subtitle: How I spend my personal time
     items:
       - type: Label
-        label: React
-        url: ''
-      - type: Label
         label: Microsoft Office
         url: ''
       - type: Label
