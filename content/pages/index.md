@@ -92,10 +92,7 @@ sections:
       An account of my personal and professional life, and other things I feel
       like writing about...
     showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
+    actions: []
     posts:
       - content/pages/blog/my-bodybuilding-journey.md
       - content/pages/blog/about-me.md
