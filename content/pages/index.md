@@ -97,6 +97,7 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/my-bodybuilding-journey.md
+      - content/pages/blog/about-me.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
