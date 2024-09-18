@@ -237,9 +237,6 @@ sections:
     subtitle: 'Things I love to do '
     items:
       - type: Label
-        label: Microsoft Office
-        url: ''
-      - type: Label
         label: Next.js
         url: ''
       - type: Label
