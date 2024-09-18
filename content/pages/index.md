@@ -237,6 +237,9 @@ sections:
     subtitle: 'Things I love to do '
     items:
       - type: Label
+        label: Bodybuilding
+        url: ''
+      - type: Label
         label: Reading books
         url: ''
     colors: colors-f
