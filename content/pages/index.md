@@ -242,6 +242,9 @@ sections:
       - type: Label
         label: Reading books
         url: ''
+      - type: Label
+        label: Swimming
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
