@@ -138,8 +138,6 @@ sections:
     variant: variant-a
     title: My skills
     text: >+
-
-
       Technical skills:
 
 
@@ -175,15 +173,6 @@ sections:
       I have a keen interest in entrepreneurship. I have knowledge of finance,
       economics, fundamental analysis of businesses, and value investing. Have
       experience of investing in stocks
-
-
-      List of skills :
-
-
-      Python, C++, Java, Docker, Linux, Proxmox, Pytorch, Matlab.
-
-
-
 
     elementId: ''
     styles:
