@@ -9,7 +9,7 @@ description: >-
   learning.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Screenshot 2024-09-15 170620.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
