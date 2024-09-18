@@ -248,6 +248,9 @@ sections:
       - type: Label
         label: Cooking
         url: ''
+      - type: Label
+        label: Watching movies & TV Shows
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
