@@ -17,9 +17,7 @@ description: >-
   compelling. Whether you're a seasoned professional or a curious newcomer, this
   book provides a fresh perspective on understanding and applying deep learning,
   all while indulging your inner detective.Buy my book here:1. E-book format (
-  kindle edition) : https://amzn.in/d/03UpJS80Available everywhere 2. Paperback
-  format( available only in USA and some other countries currently):
-  https://www.amazon.com/dp/B0DB8NYN4Z
+  kindle edition) : https://amzn.in/d/03UpJS80 Available everywhere.
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-07-26 140345.png
