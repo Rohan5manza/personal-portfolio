@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'My book '
 colors: colors-a
-date: '2022-08-22'
+date: '2022-08-09'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
