@@ -51,10 +51,7 @@ sections:
   - colors: colors-a
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: See all works
-        url: /projects
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
