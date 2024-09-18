@@ -91,7 +91,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: My blogs
     showFeaturedImage: false
     actions:
       - type: Link
