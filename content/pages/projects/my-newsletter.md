@@ -6,7 +6,7 @@ client: Awesome client
 description: >-
   Subscribe to this newsletter for updates on latest research papers, technical
   projects, business news, and a detailed tour into the world of AI and deep
-  learning.
+  learning.  Go to this link : https://algoinvest.substack.com
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-09-15 170620.png

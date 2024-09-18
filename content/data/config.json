@@ -5,14 +5,14 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Home",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "All links",
+                "label": "My Linktree",
                 "altText": "",
-                "url": "/https://linktr.ee/rohanmarar5",
+                "url": "https://linktr.ee/rohanmarar5",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -20,23 +20,21 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "LinkedIn",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/rohan-marar-77515a1bb/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/rohan5manza",
                 "icon": "github"
             }
         ],
