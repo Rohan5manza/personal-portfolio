@@ -246,7 +246,7 @@ sections:
         label: Swimming
         url: ''
       - type: Label
-        label: Watching movies & TV shows
+        label: Cooking
         url: ''
     colors: colors-f
     elementId: ''
