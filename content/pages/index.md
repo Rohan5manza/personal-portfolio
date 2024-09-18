@@ -196,9 +196,6 @@ sections:
     subtitle: List of my professional tool kit
     items:
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
         label: Swift
         url: ''
     colors: colors-f
