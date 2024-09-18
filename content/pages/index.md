@@ -82,7 +82,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: My works
+    subtitle: Prospective microbusiness
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
