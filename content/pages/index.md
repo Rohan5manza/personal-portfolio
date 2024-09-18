@@ -194,7 +194,10 @@ sections:
   - type: LabelsSection
     title: Skills
     subtitle: List of my professional tool kit
-    items: []
+    items:
+      - type: Label
+        label: Python
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
