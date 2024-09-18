@@ -99,6 +99,7 @@ sections:
       - content/pages/blog/my-bodybuilding-journey.md
       - content/pages/blog/about-me.md
       - content/pages/blog/documentation.md
+      - content/pages/blog/my-homelab-journey.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
