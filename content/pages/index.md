@@ -199,6 +199,9 @@ sections:
         label: Python
         url: ''
       - type: Label
+        label: Java
+        url: ''
+      - type: Label
         label: C++
         url: ''
     colors: colors-f
