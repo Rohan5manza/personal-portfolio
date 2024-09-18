@@ -234,7 +234,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: My hobbies
-    subtitle: How I spend my personal time
+    subtitle: 'Things I love to do '
     items:
       - type: Label
         label: Microsoft Office
