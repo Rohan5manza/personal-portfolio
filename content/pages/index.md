@@ -235,7 +235,10 @@ sections:
   - type: LabelsSection
     title: My hobbies
     subtitle: 'Things I love to do '
-    items: []
+    items:
+      - type: Label
+        label: Reading books
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
