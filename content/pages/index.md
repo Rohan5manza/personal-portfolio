@@ -233,7 +233,7 @@ sections:
       subtitle:
         textAlign: left
   - type: LabelsSection
-    title: Skills
+    title: My hobbies
     subtitle: The section subtitle
     items:
       - type: Label
