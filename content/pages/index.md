@@ -320,7 +320,7 @@ sections:
           ###### " Always be building new innovations"- that's what I live by.
 
         name: Rohan Marar
-        title: Computer engineer
+        title: ML engineer
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-06-23 172553.png
