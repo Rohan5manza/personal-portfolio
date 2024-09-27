@@ -309,9 +309,9 @@ sections:
       - type: Testimonial
         quote: >
           I always learn new things I have an interest in, out of a childish
-          curiosity, on a first-principles basis. Anything I learn, I do so not
-          just for the sake of learning, but to use what I learned to build
-          something epic and make an impact on the world. 
+          curiosity, using first-principles. I do so not just for the sake of
+          learning, but to use what I learned to build something epic and make
+          an impact on the world.
         name: Rohan Marar
         title: Computer engineer
         image:
