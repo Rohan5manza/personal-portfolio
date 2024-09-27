@@ -84,6 +84,43 @@ sections:
         justifyContent: flex-end
     subtitle: 'Major things I''m building, or have completed...'
     title: My works
+  - type: CtaSection
+    title: Other works in details
+    text: >
+      Refer to this document to know about my other works and their detailed
+      descriptions.
+    actions:
+      - type: Button
+        label: See my other personal portfolio works here
+        altText: ''
+        url: >-
+          https://docs.google.com/document/d/1khjGS-4xLtJ0NT7ChuZ1zjzRqumUAMcLIggG8ybpxhc/edit?usp=sharing
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -131,7 +168,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: My skills
-    text: >+
+    text: >
       Technical skills:
 
 
@@ -161,13 +198,19 @@ sections:
       lifelong love for science. Pursued this field passionately for 5 years
 
 
-      4\. Other professional hobbies:
+      4\. I have good leadership and team management skills, and I believe I
+      possess skills required for building new stuff. Under Algoinvest, I hired
+      a few interns for front-end web dev and ML/DL dev, and assigned them
+      detailed tasks spanning 30-40 days, for handling modules under my major
+      projects and contributing to such initiatives.  
+
+
+      5\. Other professional hobbies:
 
 
       I have a keen interest in entrepreneurship. I have knowledge of finance,
       economics, fundamental analysis of businesses, and value investing. Have
       experience of investing in stocks
-
     elementId: ''
     styles:
       self:
@@ -245,6 +288,9 @@ sections:
       - type: Label
         label: Watching movies & TV Shows
         url: ''
+      - type: Label
+        label: Writing
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
@@ -264,11 +310,15 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          I am always passionate to create and invent new stuff, and gain
-          knowledge and expertise of things related to science and technology
-          that interest me. I always approach a subject of my interest with
-          curiosity and a first-principles basis.
+        quote: >+
+          ###### I always learn new things I have an interest in, out of a
+          childish curiosity, using first-principles. I do so not just for the
+          sake of learning, but to use what I learned to build something epic
+          and make an impact on the world.
+
+
+          ###### " Always be building new innovations"- that's what I live by.
+
         name: Rohan Marar
         title: Computer engineer
         image:
