@@ -91,7 +91,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: See my other personal portfolio works here
         altText: ''
         url: >-
           https://docs.google.com/document/d/1khjGS-4xLtJ0NT7ChuZ1zjzRqumUAMcLIggG8ybpxhc/edit?usp=sharing
