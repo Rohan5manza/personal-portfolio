@@ -307,12 +307,14 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >+
+        quote: >
           ###### I always learn new things I have an interest in, out of a
           childish curiosity, using first-principles. I do so not just for the
           sake of learning, but to use what I learned to build something epic
           and make an impact on the world.
 
+
+          " Always be building new innovations"- that's what I live by.
         name: Rohan Marar
         title: Computer engineer
         image:
