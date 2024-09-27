@@ -168,7 +168,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: My skills
-    text: >+
+    text: >
       Technical skills:
 
 
@@ -198,13 +198,19 @@ sections:
       lifelong love for science. Pursued this field passionately for 5 years
 
 
-      4\. Other professional hobbies:
+      4\. I have good leadership and team management skills, and I believe I
+      possess skills required for building new stuff. Under Algoinvest, I hired
+      a few interns for front-end web dev and ML/DL dev, and assigned them
+      detailed tasks spanning 30-40 days, for handling modules under my major
+      projects and contributing to such initiatives.  
+
+
+      5\. Other professional hobbies:
 
 
       I have a keen interest in entrepreneurship. I have knowledge of finance,
       economics, fundamental analysis of businesses, and value investing. Have
       experience of investing in stocks
-
     elementId: ''
     styles:
       self:
