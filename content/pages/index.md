@@ -85,7 +85,7 @@ sections:
     subtitle: 'Major things I''m building, or have completed...'
     title: My works
   - type: CtaSection
-    title: Let's do this
+    title: Other works in details
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
