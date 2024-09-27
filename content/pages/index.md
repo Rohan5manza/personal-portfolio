@@ -308,10 +308,10 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >
-          I am always passionate to create and invent new stuff, and gain
-          knowledge and expertise of things related to science and technology
-          that interest me. I always approach a subject of my interest with
-          curiosity and a first-principles basis.
+          I always learn new things I have an interest in, out of a childish
+          curiosity, on a first-principles basis. Anything I learn, I do so not
+          just for the sake of learning, but to use what I learned to build
+          something epic and make an impact on the world. 
         name: Rohan Marar
         title: Computer engineer
         image:
