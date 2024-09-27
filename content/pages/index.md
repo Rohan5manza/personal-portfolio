@@ -86,9 +86,9 @@ sections:
     title: My works
   - type: CtaSection
     title: Other works in details
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Refer to this document to know about my other works and their detailed
+      descriptions.
     actions:
       - type: Button
         label: See my other personal portfolio works here
