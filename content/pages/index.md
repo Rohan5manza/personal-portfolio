@@ -288,6 +288,9 @@ sections:
       - type: Label
         label: Watching movies & TV Shows
         url: ''
+      - type: Label
+        label: Writing
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
