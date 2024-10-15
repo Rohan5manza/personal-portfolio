@@ -201,8 +201,8 @@ sections:
       4\. I have good leadership and team management skills, and I believe I
       possess skills required for building new stuff. Under Algoinvest, I hired
       a few interns for front-end web dev and ML/DL dev, and assigned them
-      detailed tasks spanning 30-40 days, for handling modules under my major
-      projects and contributing to such initiatives.  
+      detailed tasks spanning 30-40 days, for handling modules under my
+      projects.
 
 
       5\. Other professional hobbies:
@@ -210,7 +210,12 @@ sections:
 
       I have a keen interest in entrepreneurship. I have knowledge of finance,
       economics, fundamental analysis of businesses, and value investing. Have
-      experience of investing in stocks
+      experience of investing in stocks. 
+
+
+      I have experience of product building and marketing, and building my
+      startup. Sold my SaaS app WealthifyAI to customers online successfully at
+      affordable prices. 
     elementId: ''
     styles:
       self:
