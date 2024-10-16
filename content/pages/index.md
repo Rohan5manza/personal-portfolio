@@ -131,6 +131,7 @@ sections:
     showFeaturedImage: false
     actions: []
     posts:
+      - content/pages/blog/a-short-essay-on-entrepreneurship.md
       - content/pages/blog/my-bodybuilding-journey.md
       - content/pages/blog/about-me.md
       - content/pages/blog/documentation.md
