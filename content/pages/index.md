@@ -131,6 +131,7 @@ sections:
     showFeaturedImage: false
     actions: []
     posts:
+      - content/pages/blog/writings-photos.md
       - content/pages/blog/a-short-essay-on-entrepreneurship.md
       - content/pages/blog/screenwriting.md
       - content/pages/blog/my-bodybuilding-journey.md

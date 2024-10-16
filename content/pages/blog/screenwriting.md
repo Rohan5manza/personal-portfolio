@@ -1,8 +1,8 @@
 ---
 type: PostLayout
 title: >-
-  On creativity: My writings on film watching, cinema direction and
-  screenwriting, and fiction storywriting
+  On creativity: My hobby of film watching, cinema direction and screenwriting,
+  and fiction storywriting
 date: '2024-10-16'
 excerpt: ''
 featuredImage:
