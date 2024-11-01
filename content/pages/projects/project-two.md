@@ -11,7 +11,7 @@ description: >-
   useful projects and ideas. Check it out here: https://algoinvest.netlify.app
 featuredImage:
   type: ImageBlock
-  url: /images/IMG_20241028_152752_417.webp
+  url: /images/Screenshot 2024-11-01 131538.png
   altText: Project thumbnail image
   caption: prospective microbusiness
 media:
