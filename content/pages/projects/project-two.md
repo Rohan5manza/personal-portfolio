@@ -5,13 +5,13 @@ colors: colors-a
 date: '2024-08-20'
 client: Awesome client
 description: >-
-  At Algoinvest,I build innovative software and offer them as services to solve
-  problems and enable people to get rid of their frustrations. It is a way by
-  which I can provide value to others as a ML engineer, by monetizing upon my
-  useful projects and ideas. Check it out here: https://algoinvest.netlify.app
+  At TensorBuilds ,I build innovative software and offer them as services to
+  solve problems and enable people to get rid of their frustrations. It is a way
+  by which I can provide value to others as a ML engineer, by monetizing upon my
+  useful projects and ideas. Check it out here: https://tensorbuilds.netlify.app
 featuredImage:
   type: ImageBlock
-  url: /images/Algoinvest.png
+  url: /images/Screenshot 2024-11-01 131538.png
   altText: Project thumbnail image
   caption: prospective microbusiness
 media:
