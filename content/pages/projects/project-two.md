@@ -11,7 +11,7 @@ description: >-
   useful projects and ideas. Check it out here: https://tensorbuilds.netlify.app
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot 2024-11-01 131538.png
+  url: /images/Screenshot 2024-11-01 154340.png
   altText: Project thumbnail image
   caption: prospective microbusiness
 media:
