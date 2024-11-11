@@ -1,18 +1,14 @@
 ---
 type: ProjectLayout
-title: 'My book '
-date: '2024-08-08'
+title: Online teaching
+date: '2024-11-11'
 client: Awesome client
 description: >-
-  Deep Learning deciphered :A guide to understanding neural networks with
-  Sherlock Holmes’ investigative approach.                                   
-  This is my first ever book published. It is my manuscript on deep learning
-  which serves as a guide for adopting methods while writing code for AI
-  models.                                    Buy my book here :
-  https://amzn.in/d/03UpJS80  
+  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
+  condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot 2024-07-26 140345.png
+  url: /images/Screenshot 2024-11-11 134725.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
